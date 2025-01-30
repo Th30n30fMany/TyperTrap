@@ -1,5 +1,5 @@
 # Set the destination directory on the desktop
-$dest = "$env:USERPROFILE\Desktop\jakoby-payloads"
+$dest = "$env:USERPROFILE\Desktop\jk-pay"
 
 # Create the destination directory if it doesn't already exist
 if (-not (Test-Path $dest)) {
