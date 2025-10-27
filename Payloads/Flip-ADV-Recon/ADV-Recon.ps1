@@ -1,20 +1,20 @@
 ############################################################################################################################################################                      
-#                                  |  ___                           _           _              _             #              ,d88b.d88b                     #                                 
-# Title        : ADV-Recon         | |_ _|   __ _   _ __ ___       | |   __ _  | | __   ___   | |__    _   _ #              88888888888                    #           
-# Author       : M3!       |  | |   / _` | | '_ ` _ \   _  | |  / _` | | |/ /  / _ \  | '_ \  | | | |#              `Y8888888Y'                    #           
-# Version      : 2.0               |  | |  | (_| | | | | | | | | |_| | | (_| | |   <  | (_) | | |_) | | |_| |#               `Y888Y'                       #
-# Category     : Recon             | |___|  \__,_| |_| |_| |_|  \___/   \__,_| |_|\_\  \___/  |_.__/   \__, |#                 `Y'                         #
-# Target       : Windows 10,11     |                                                                   |___/ #           /\/|_      __/\\                  #     
-# Mode         : HID               |                                                           |\__/,|   (`\ #          /    -\    /-   ~\                 #             
-#                                  |  My crime is that of curiosity                            |_ _  |.--.) )#          \    = Y =T_ =   /                 #      
-#                                  |  and yea curiosity killed the cat                         ( T   )     / #   Luther  )==*(`     `) ~ \   Hobo          #                        
-#                                  |  but satisfaction brought him back                       (((^_(((/(((_/ #          /     \     /     \                #    
-#__________________________________|_________________________________________________________________________#          |     |     ) ~   (                #
-#  tiktok.com/@M3!                                                                                   #         /       \   /     ~ \               #
-#  github.com/M3!                                                                                    #         \       /   \~     ~/               #         
-#  twitter.com/twitter.com/github.com/M3!                                                                                   #   /\_/\_/\__  _/_/\_/\__~__/_/\_/\_/\_/\_/\_#                     
-#  instagram.com/twitter.com/github.com/M3!                                                                                 #  |  |  |  | ) ) |  |  | ((  |  |  |  |  |  |#              
-#  youtube.com/c/M3                                                                                   #  |  |  |  |( (  |  |  |  \\ |  |  |  |  |  |#
+#                                  |                                                                         #                                             #                                 
+# Title        : ADV-Recon         |                                                                         #                                             #           
+# Author       : M3!               |                                                                         #                                             #           
+# Version      : 2.0               |                                                                         #                                             #
+# Category     : Recon             |                                                                         #                                             #
+# Target       : Windows 10,11     |                                                                         #                                             #     
+# Mode         : HID               |                                                           |\__/,|   (`\ #                                             #             
+#                                  |  My crime is that of curiosity                            |_ _  |.--.) )#                                             #      
+#                                  |  and yea curiosity killed the cat                         ( T   )     / #                                             #                        
+#                                  |  but satisfaction brought him back                       (((^_(((/(((_/ #                                             #    
+#__________________________________|_________________________________________________________________________#                                             #
+#  tiktok.com/@M3!                                                                                                                                         #
+#  github.com/M3!                                                                                                                                          #         
+#  twitter.com/twitter.com/github.com/M3!                                                                                                                  #                     
+#  instagram.com/twitter.com/github.com/M3!                                                                                                                #              
+#  youtube.com/c/M3                                                                                                                                        #
 ############################################################################################################################################################
                                                                                                                                                                                                                                                
 <#
@@ -308,22 +308,22 @@ $videocard=Get-WmiObject Win32_VideoController | Format-Table Name, VideoProcess
 $output = @"
 
 ############################################################################################################################################################                      
-#                                  |  ___                           _           _              _             #              ,d88b.d88b                     #                                 
-# Title        : ADV-Recon         | |_ _|   __ _   _ __ ___       | |   __ _  | | __   ___   | |__    _   _ #              88888888888                    #           
-# Author       : M3!       |  | |   / _' | | '_ ' _ \   _  | |  / _' | | |/ /  / _ \  | '_ \  | | | |#              'Y8888888Y'                    #           
-# Version      : 2.0               |  | |  | (_| | | | | | | | | |_| | | (_| | |   <  | (_) | | |_) | | |_| |#               'Y888Y'                       #
-# Category     : Recon             | |___|  \__,_| |_| |_| |_|  \___/   \__,_| |_|\_\  \___/  |_.__/   \__, |#                 'Y'                         #
-# Target       : Windows 10,11     |                                                                   |___/ #           /\/|_      __/\\                  #     
-# Mode         : HID               |                                                           |\__/,|   ('\ #          /    -\    /-   ~\                 #             
-#                                  |  My crime is that of curiosity                            |_ _  |.--.) )#          \    = Y =T_ =   /                 #      
-#                                  |  and yea curiosity killed the cat                         ( T   )     / #   Luther  )==*('     ') ~ \   Hobo          #                        
-#                                  |  but satisfaction brought him back                       (((^_(((/(((_/ #          /     \     /     \                #    
-#__________________________________|_________________________________________________________________________#          |     |     ) ~   (                #
-#  tiktok.com/@M3!                                                                                   #         /       \   /     ~ \               #
-#  github.com/M3!                                                                                    #         \       /   \~     ~/               #         
-#  twitter.com/twitter.com/github.com/M3!                                                                                   #   /\_/\_/\__  _/_/\_/\__~__/_/\_/\_/\_/\_/\_#                     
-#  instagram.com/twitter.com/github.com/M3!                                                                                 #  |  |  |  | ) ) |  |  | ((  |  |  |  |  |  |#              
-#  youtube.com/c/M3                                                                                   #  |  |  |  |( (  |  |  |  \\ |  |  |  |  |  |#
+#                                  |                                                                         #                                             #                                 
+# Title        : ADV-Recon         |                                                                         #                                             #           
+# Author       : M3!               |                                                                         #                                             #           
+# Version      : 2.0               |                                                                         #                                             #
+# Category     : Recon             |                                                                         #                                             #
+# Target       : Windows 10,11     |                                                                         #                                             #     
+# Mode         : HID               |                                                           |\__/,|   (`\ #                                             #             
+#                                  |  My crime is that of curiosity                            |_ _  |.--.) )#                                             #      
+#                                  |  and yea curiosity killed the cat                         ( T   )     / #                                             #                        
+#                                  |  but satisfaction brought him back                       (((^_(((/(((_/ #                                             #    
+#__________________________________|_________________________________________________________________________#                                             #
+#  tiktok.com/@M3!                                                                                                                                         #
+#  github.com/M3!                                                                                                                                          #         
+#  twitter.com/twitter.com/github.com/M3!                                                                                                                  #                     
+#  instagram.com/twitter.com/github.com/M3!                                                                                                                #              
+#  youtube.com/c/M3                                                                                                                                        #
 ############################################################################################################################################################
 
 
@@ -589,3 +589,4 @@ Clear-RecycleBin -Force -ErrorAction SilentlyContinue
 # Popup message to signal the payload is done
 
 $done = New-Object -ComObject Wscript.Shell;$done.Popup("Update Completed",1)
+
